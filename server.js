@@ -76,7 +76,7 @@ function prompts(){
               {
                 type: 'input',
                 name: 'salary',
-                message: 'What is this role\'s salary',
+                message: 'What is this role\'s salary?',
               },
               {
                 type: 'input',
