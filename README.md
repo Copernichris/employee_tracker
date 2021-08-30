@@ -4,7 +4,7 @@
 Employee Tracker is an app that alows users to track and update employees based on their roles and departments. The app uses node, mysql, and inquierer. The app is run through the console and gives the user prompts to view and manage their database.
 
 ## Video
-[Demonstration Video](https://www.youtube.com/watch?v=70hc3YGRabI)
+[Demonstration Video](https://www.youtube.com/watch?v=McVWiRZ5CSA)
 
 ## Table of Contents
   - [Description](#description)
