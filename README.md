@@ -20,4 +20,4 @@ Employee Tracker is an app that alows users to track and update employees based 
   Run node server.js in the console. The prompts will walk you through steps for adding and updating and the view options show a table.
 
 ## Screenshot
-![Screenshot](https://github.com/Copernichris/readmeGenerator/blob/main/SS.png)
+![Screenshot](https://github.com/Copernichris/employee_tracker/blob/main/SS.png)
